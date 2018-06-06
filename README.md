@@ -1,7 +1,5 @@
 # Tip Calculator
 * **Perry Raskin**
-* **CS370: Software Engineering**
-* **Assignment 4: Android Development**
 * **Android Studio v3.0**
 
 ## App Usage
